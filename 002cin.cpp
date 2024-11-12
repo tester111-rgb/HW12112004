@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int ages;//3
-    cout << "How old are you? "; // 1
-    cin >> ages; // 2
-    cout << "Your old is " << ages << " years"<<
+    int prices;//3
+    cout << "How much mango per kilo? "; // 1
+    cin >> prices; // 2
+    cout << "The mango is " << prices << " baht per kilo"<<
     endl;
 
 }
